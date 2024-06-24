@@ -78,6 +78,7 @@ Generate static HTML files from a list of URLs.
 - `outputDir` (string): Directory to save generated HTML files.
 - `[timeout]` (number, optional): Navigation timeout in milliseconds. Default is 60000.
 - `[retries]` (number, optional): Number of retry attempts on failure. Default is 3.
+- `[makeScreenshots]` if true it will create screenshots of each page
 
 ## License
 MIT
